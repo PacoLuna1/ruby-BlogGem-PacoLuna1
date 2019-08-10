@@ -1,8 +1,8 @@
-This document will throw you for all the steps that you need to write your own Ruby gem. Starting with...
+This document will through you for all the steps that you need to write your own Ruby gem. Starting with...
 
 ### What is a Ruby gem?
 
-If you don't know what a Ruby gem is let me tell you that you have serious problems. But keeping you a few minutes that possibly you were thinking to spend searching in google. 
+If you don't know what a Ruby gem is, let me tell you that you have serious problems. But keeping you a few minutes that possibly you were thinking to spend searching in google. 
 
 > A gem is a library that contains a specific piece of functionality as well as any files or assets related to that functionality. 
 
@@ -12,7 +12,7 @@ Inside gems are the following components:
 * Documentation
 * gemspec
 
-The next spect you have to learn to create your first Ruby gem.
+The next aspect you have to learn to create your first Ruby gem:
 
 ### What is bundle?
 
